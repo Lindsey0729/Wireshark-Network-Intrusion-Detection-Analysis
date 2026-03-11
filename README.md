@@ -16,6 +16,19 @@ The project was created to mirrors real-world Security Operations Center (SOC) i
 
 - Strengthen foundational SOC and network security skills
 
+ ## 🔐Security Analysis
+
+The network capture was reviewed for potential indicators of compromise (IOCs).
+
+Analysis included:
+
+• Monitoring outbound connections
+• Reviewing TCP handshake behavior
+• Inspecting HTTP and DNS requests
+• Validating destination IP addresses
+
+No suspicious traffic patterns were identified during the capture session.
+
 ## 🔍 Project Methodology
 
 1. Packet Capture
@@ -68,7 +81,7 @@ The project was created to mirrors real-world Security Operations Center (SOC) i
 
 - Gained practical experience aligned with entry-level SOC analyst responsibilities.
 
-### Skills Learned
+## Skills Learned
 
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
